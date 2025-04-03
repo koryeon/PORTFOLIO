@@ -32,7 +32,7 @@
 
 ## 💻 프로젝트 경험
 
-### 공무원 S.O.S: LLM을 이용한 공무원 업무 AI Assistant
+### [공무원 S.O.S: LLM을 이용한 공무원 업무 AI Assistant](https://github.com/Drawjustin/KT_BIG_PROJECT)
 **2025.01 - 2025.02**
 
 #### 프로젝트 소개
@@ -85,10 +85,14 @@ AI 모델을 활용해 접수된 민원을 해당 부서별로 자동 분류하�
   <img src="https://github.com/user-attachments/assets/845d08f7-409a-4a6f-84cd-e47089b8186c" width="45%" />
   <img src="https://github.com/user-attachments/assets/81c0f6e8-4293-4a2a-9600-026b549bca90" width="45%" />
 </p>
+  
+  
+***
+  
+  
+       
 
-
-
-### 응급상황 인식 및 응급실 연계 서비스 포탈
+### [응급상황 인식 및 응급실 연계 서비스 포탈](https://github.com/koryeon/KT_AIVLE_MINI_PROJECT_7)
 **2024.12**
 
 #### 프로젝트 소개
@@ -125,7 +129,13 @@ AI 모델을 활용해 접수된 민원을 해당 부서별로 자동 분류하�
 <img width="627" alt="Image" src="https://github.com/user-attachments/assets/86780125-b0ef-4338-ab21-8bf01074f11e" />
 
 
-### 갯녹음 위험 예측을 통한 바다숲 조성 우선 지역 선별
+    
+***
+
+
+  
+
+### [갯녹음 위험 예측을 통한 바다숲 조성 우선 지역 선별](https://github.com/koryeon/Data_campus)
 **2022.06.27 - 2022.08.31**
 
 #### 프로젝트 소개
